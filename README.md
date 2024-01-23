@@ -1,7 +1,7 @@
 ![poster](poster.png)
 
 # DOM exercises
-## Kom igång
+## Kom igång 
 Ladda ner sinus minishop. All din kod ska skrivas i *script.js*.
 I denna övning kommer du få öva på:
 
